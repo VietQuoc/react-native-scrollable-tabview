@@ -1,6 +1,6 @@
 {
-  "name": "@valdio/react-native-scrollable-tabview",
-  "version": "0.8.12",
+  "name": "react-native-scrollable-tab-view",
+  "version": "1.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "tab",
     "scrollable"
   ],
-  "author": "Valdio Veliu <Valdio Veliu>",
+  "author": "Quoc Nguyen,
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/valdio/react-native-scrollable-tabview/issues"
