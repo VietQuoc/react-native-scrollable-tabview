@@ -6,10 +6,7 @@
 ## Add it to your project
 
 ### Install
-
-Run  `npm install @valdio/react-native-scrollable-tabview --save`
-    
-OR  `yarn add @valdio/react-native-scrollable-tabview`
+ `yarn add git+https://github.com/VietQuoc/react-native-scrollable-tabview.git`
 
 ### Import
 `import {
