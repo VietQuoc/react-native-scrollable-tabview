@@ -19,13 +19,13 @@
     "tab",
     "scrollable"
   ],
-  "author": "Quoc Nguyen,
+  "author": "Quoc Nguyen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/valdio/react-native-scrollable-tabview/issues"
+    "url": "https://github.com/VietQuoc/react-native-scrollable-tabview/issues"
   },
   "peerDependencies": {},
-  "homepage": "https://github.com/valdio/react-native-scrollable-tabview#readme",
+  "homepage": "https://github.com/VietQuoc/react-native-scrollable-tabview#readme",
   "dependencies": {},
   "devDependencies": {}
 }
