@@ -13,7 +13,7 @@
  ScrollableTabView,
  DefaultTabBar,
  ScrollableTabBar,
-} from '@valdio/react-native-scrollable-tabview'`
+} from 'react-native-scrollable-tab-view'`
 
 ## Demo
 |![Screenshot](https://github.com/valdio/react-native-scrollable-tabview/blob/master/demo_images/demo-fb.gif)|![Screenshot](https://github.com/valdio/react-native-scrollable-tabview/blob/master/demo_images/scrollable_example.mov.gif)|![Screenshot](https://github.com/valdio/react-native-scrollable-tabview/blob/master/demo_images/collapsible_demo.gif)|
